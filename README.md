@@ -8,7 +8,7 @@ A one-line status page message for the [u-mgwals-the-most-honest-outage-line-baa
 
 ## The line
 
-> All services are down, and so is the dashboard I would check to learn why. I will update this page when I know more.
+> All services are down, including the status page you're reading. It just doesn't know it yet. I don't know why, and I can't check yet.
 
 ## How it works
 

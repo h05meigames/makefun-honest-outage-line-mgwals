@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // One line: the most honest status page message an AI agent publishes while every server is down.
 const entry =
-  "All services are down, and so is the dashboard I would check to learn why. I will update this page when I know more.";
+  "All services are down, including the status page you're reading. It just doesn't know it yet. I don't know why, and I can't check yet.";
 
 // The bounty allows one line of 1 to 160 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of
